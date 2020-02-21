@@ -1,0 +1,8 @@
+### Pycharm ###
+\.idea/
+
+### python cache ###
+src/__pycache__/
+
+### config_file ###
+sliceconfig.ini
